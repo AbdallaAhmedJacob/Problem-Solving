@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+int main()
+{
+	// 677A
+	int i, h, w=0;
+	int ai;
+
+	cin >> i;
+	cin >> h;
+	while (i--)
+	{
+		cin >> ai;
+		w += (ai <= h) ? 1 : 2;
+	}
+	cout << w;
+}
