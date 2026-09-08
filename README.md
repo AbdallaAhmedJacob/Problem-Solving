@@ -6,3 +6,4 @@
 | 4 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 01 Sept 2026 | 02:44 pm |
 | 5 | [677A - Vanya and Fence](./Codeforces/basic/677A%20-%20Vanya%20and%20Fence) | [Codeforces](https://codeforces.com/problemset/problem/677/A) | basic | 06 Sept 2026 | 01:54 pm |
 | 6 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 07 Sept 2026 | 02:17 pm |
+| 7 | [1791E - Negatives and Positives](./Codeforces/basic/1791E%20-%20Negatives%20and%20Positives) | [Codeforces](https://codeforces.com/problemset/problem/1791/E) | basic | 08 Sept 2026 | 01:36 pm |
