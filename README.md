@@ -12,3 +12,4 @@
 | 10 | [1418C - Mortal Kombat Tower](./Codeforces/basic/1418C%20-%20Mortal%20Kombat%20Tower) | [Codeforces](https://codeforces.com/problemset/problem/1418/C) | basic | 08 Sept 2026 | 01:36 pm |
 | 11 | [2253C - Sum of Distinct Values in a Matrix](./Codeforces/basic/2253C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/2253/C) | basic | 08 Sept 2026 | 01:36 pm |
 | 12 | [263A - Beautiful Matrix](./Codeforces/basic/263A%20-%20Beautiful%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/263/A) | basic | 08 Sept 2026 | 01:36 pm |
+| 13 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 08 Sept 2026 | 01:37 pm |
