@@ -8,3 +8,4 @@
 | 6 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 07 Sept 2026 | 02:17 pm |
 | 7 | [1791E - Negatives and Positives](./Codeforces/basic/1791E%20-%20Negatives%20and%20Positives) | [Codeforces](https://codeforces.com/problemset/problem/1791/E) | basic | 08 Sept 2026 | 01:36 pm |
 | 8 | [2032A - Circuit](./Codeforces/basic/2032A%20-%20Circuit) | [Codeforces](https://codeforces.com/problemset/problem/2032/A) | basic | 08 Sept 2026 | 01:36 pm |
+| 9 | [1606A - AB Balance](./Codeforces/basic/1606A%20-%20AB%20Balance) | [Codeforces](https://codeforces.com/problemset/problem/1606/A) | basic | 08 Sept 2026 | 01:36 pm |
