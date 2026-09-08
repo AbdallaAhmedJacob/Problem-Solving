@@ -9,3 +9,4 @@
 | 7 | [1791E - Negatives and Positives](./Codeforces/basic/1791E%20-%20Negatives%20and%20Positives) | [Codeforces](https://codeforces.com/problemset/problem/1791/E) | basic | 08 Sept 2026 | 01:36 pm |
 | 8 | [2032A - Circuit](./Codeforces/basic/2032A%20-%20Circuit) | [Codeforces](https://codeforces.com/problemset/problem/2032/A) | basic | 08 Sept 2026 | 01:36 pm |
 | 9 | [1606A - AB Balance](./Codeforces/basic/1606A%20-%20AB%20Balance) | [Codeforces](https://codeforces.com/problemset/problem/1606/A) | basic | 08 Sept 2026 | 01:36 pm |
+| 10 | [1418C - Mortal Kombat Tower](./Codeforces/basic/1418C%20-%20Mortal%20Kombat%20Tower) | [Codeforces](https://codeforces.com/problemset/problem/1418/C) | basic | 08 Sept 2026 | 01:36 pm |
