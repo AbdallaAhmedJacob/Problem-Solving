@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [sortings](#sortings) (1)
 
 ---
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### implementation
