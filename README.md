@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
@@ -14,8 +14,9 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -36,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### sortings
@@ -43,6 +45,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 
 ---
 
