@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### sortings
