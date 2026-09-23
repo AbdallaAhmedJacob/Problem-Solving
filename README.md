@@ -6,54 +6,85 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [*special](#special) (2)
+- [brute force](#brute-force) (2)
+- [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (9)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (5)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
-| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
-| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
-| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/AbdallaAhmedJacob/problem-solving/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 
 ---
 
